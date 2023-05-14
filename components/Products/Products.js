@@ -37,7 +37,7 @@ class Products {
             htmlCatalog += `
                 <li class="products-element">
                     <span class="products-element__name">${name}</span>
-                    <img class="products-element__img" src="./../img/${img}" />
+                    <img class="products-element__img" src="./../../img/${img}" />
                     <span class="products-element__price">
                         ${price.toLocaleString()} USD
                     </span>
