@@ -1,0 +1,74 @@
+[
+    {
+        "id": "el1",
+        "name": "KTM 890 ADVENTURE 2023",
+        "img": "1.png",
+        "price": 13600
+    },
+    {
+        "id": "el2",
+        "name": "KTM RC 8C",
+        "img": "2.png",
+        "price": 23900
+    },
+    {
+        "id": "el3",
+        "name": "KTM RC 390",
+        "img": "3.png",
+        "price": 21600
+    },
+    {
+        "id": "el4",
+        "name": "KTM 450 XC-F",
+        "img": "4.png",
+        "price": 19900
+    },
+    {
+        "id": "el5",
+        "name": "KTM 1290 SUPER DUKE R EVO",
+        "img": "5.png",
+        "price": 14500
+    },
+    {
+        "id": "el6",
+        "name": "1290 SUPER DUKE RR",
+        "img": "6.png",
+        "price": 14600
+    },
+    {
+        "id": "el7",
+        "name": "KTM 890 DUKE",
+        "img": "7.png",
+        "price": 13600
+    },
+    {
+        "id": "el8",
+        "name": "KTM 890 SMT",
+        "img": "8.png",
+        "price": 28700
+    },
+    {
+        "id": "el9",
+        "name": "KTM 1290 SUPER DUKE GT",
+        "img": "9.png",
+        "price": 18100
+    },
+    {
+        "id": "el10",
+        "name": "KTM 1290 SUPER ADVENTURE S",
+        "img": "10.png",
+        "price": 15990
+    },
+    {
+        "id": "el11",
+        "name": "KTM 250 ADVENTURE",
+        "img": "11.png",
+        "price": 20000
+    },
+    {
+        "id": "el12",
+        "name": "KTM 690 ENDURO R",
+        "img": "12.png",
+        "price": 19990
+    }
+]
